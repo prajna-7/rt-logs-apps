@@ -1,0 +1,12 @@
+name: placeholder
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder
+        run: echo "CI will be added in a later phase."
