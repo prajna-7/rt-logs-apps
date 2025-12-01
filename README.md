@@ -1,4 +1,5 @@
 # rt-logs-apps
+This repo is part of a portfolio project to demonstrate real-time log processing on AWS.
 
 Application repository for the **Real-Time Log Processing Platform on AWS**.
 
